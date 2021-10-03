@@ -1,5 +1,5 @@
 
-test_str = 'geeksforgeeks_is_best'
+test_str = 'PavanisBest'
 
 print("The original string is : " + test_str)
 
